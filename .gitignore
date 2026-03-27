@@ -2,7 +2,7 @@
 /target/
 **/*.rs.bk
 *.pdb
-
+/target
 # Soroban / WASM build artifacts (if emitted outside target/)
 *.wasm
 
