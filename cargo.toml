@@ -2,7 +2,7 @@
 name = "stellar-1"
 version = "0.1.0"
 edition = "2021"
-description = "An NFT rental protocol with time-limited access credentials on Soroban"
+description = "A DAO community treasury with token-weighted governance, spending proposals, veto period before execution, and on-chain fund release on Soroban"
 license = "MIT"
 
 [lib]
