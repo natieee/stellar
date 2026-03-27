@@ -1,0 +1,19 @@
+# Rust / Cargo
+/target/
+**/*.rs.bk
+*.pdb
+/target
+# Soroban / WASM build artifacts (if emitted outside target/)
+*.wasm
+
+# Environment and secrets
+.env
+.env.*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
