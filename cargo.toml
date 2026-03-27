@@ -1,5 +1,5 @@
 [package]
-name = "soroban-rental"
+name = "stellar-1"
 version = "0.1.0"
 edition = "2021"
 description = "An NFT rental protocol with time-limited access credentials on Soroban"
