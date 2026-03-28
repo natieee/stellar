@@ -383,3 +383,7 @@ Unbounded rental periods create UX risk (a renter accidentally booking 10,000 da
 ## License
 
 MIT
+
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/b1d386df-3d12-4afd-8b3e-62a9ad2e16e4" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/aacc7d95-6371-4194-bdd1-ef402218ee94" />
+<img width="560" height="49" alt="image" src="https://github.com/user-attachments/assets/45ebe2e0-0d11-4e1d-b1f3-786b705d0028" />
